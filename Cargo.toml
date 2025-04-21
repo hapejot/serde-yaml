@@ -12,7 +12,7 @@ repository = "https://github.com/hapejot/serde-yaml"
 rust-version = "1.64"
 
 [dependencies]
-indexmap = "2.2.*"
+indexmap = "2.*"
 itoa = "1.*"
 ryu = "1.*"
 serde = "1.*"
